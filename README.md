@@ -12,7 +12,7 @@
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Equipe de Desenvolvimente](#equipe-de-desenvolvimento)
   - [Estrutura de Gestão e Metodologia](#estrutura-de-gestão-e-metodologia)
-  - [Execução do Projeto Localmente](#execução-do-projeto)
+  - [Execução do Projeto Localmente](#execução-do-projeto-localmente)
   - [Licença e Homologação](#licença-e-homologação)
 
 ---
@@ -68,7 +68,7 @@ O projeto adota uma **abordagem híbrida de gestão de software**:
 | **Lucas Tadashi Aniya** | Desenvolvedor Front-End | Developer |
 | **Gustavo Pereira Prado** | Quality Assurance (QA) | Quality Assurance (QA) |
 
-* Orientador:* Prof. Renato Mauro Richter
+**Orientador:** Prof. Renato Mauro Richter
 
 ---
 

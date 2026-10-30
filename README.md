@@ -124,7 +124,7 @@ Requisitos: Python v3.10 ou superior, Node.js v18 ou superior e MySQL Server
    npm start
    ```
 
-4. **Execuçãoo da Suíte de Testes (QA):**
+4. **Execução da Suíte de Testes (QA):**
    ```bash
    # Testes unitários e de integração
    npm run test

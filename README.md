@@ -7,13 +7,15 @@
 ---
 
 ## Sumário
-  - [Sobre o Projeto](sobre-o-projeto)
-  - [Principais Funcionalidades](principais-funcionalidades)
-  - [Tecnologias Utilizadas](tecnologias-utilizadas)
-  - [Equipe de Desenvolvimente](equipe-de-desenvolvimento)
-  - [Estrutura de Gestão e Metodologia](estrutura-de-gestão-e-metodologia)
-  - [Como Executar o Projeto Localmente](como-executar-o-projeto-localmente)
-  - [Licença e Homologação](licença-e-homologação)
+  - [Sobre o Projeto](#sobre-o-projeto)
+  - [Principais Funcionalidades](#principais-funcionalidades)
+  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+  - [Equipe de Desenvolvimente](#equipe-de-desenvolvimento)
+  - [Estrutura de Gestão e Metodologia](#estrutura-de-gestão-e-metodologia)
+  - [Execução do Projeto Localmente](#execução-do-projeto)
+  - [Licença e Homologação](#licença-e-homologação)
+
+---
 
 ## Sobre o Projeto
 
@@ -89,22 +91,19 @@ O projeto adota uma **abordagem híbrida de gestão de software**:
 
 ---
 
-## Como Executar o Projeto Localmente
+## Execução do Projeto Localmente
 
-### Pré-requisitos
-- **Node.js** (v18+)
-- **Python** (v3.10+)
-- **MySQL Server**
+Requisitos: Python v3.10 ou superior, Node.js v18 ou superior e MySQL Server
 
 ### Passo a Passo
 
-1. **Clonar o repositório:**
+1. **Clonagem do repositório:**
    ```bash
    git clone https://github.com/Livia-Oliveira231964/ManutenCar.git
    cd ManutenCar
    ```
 
-2. **Configurar o Back-End (Python):**
+2. **Configuração do Back-End (Python):**
    ```bash
    cd backend
    python -m venv venv
@@ -118,14 +117,14 @@ O projeto adota uma **abordagem híbrida de gestão de software**:
    python main.py
    ```
 
-3. **Configurar o Front-End (TypeScript/React):**
+3. **Configuração do Front-End (TypeScript/React):**
    ```bash
    cd ../frontend
    npm install
    npm start
    ```
 
-4. **Executar a Suíte de Testes (QA):**
+4. **Execuçãoo da Suíte de Testes (QA):**
    ```bash
    # Testes unitários e de integração
    npm run test
